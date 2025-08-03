@@ -9,4 +9,4 @@
 
 
 ## 我正在学习/会的语言和价格
-C#和.NET ~~(但是非常烂)~~  Python C++
+C#和.NET ~~(但是非常烂)~~  Python C++ PHP JavaScript CSS HTML
