@@ -4,7 +4,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WRD1145)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WRD1145)
 
+## 联系方式
+请发送邮件至1640884306@qq.com并注明来意或者加作者QQ 1640884306或者加项目相对应的QQ群。
 
-Q:我需要联系你
 
-A:请发送邮件至1640884306@qq.com并注明来意或者加作者QQ 1640884306
+## 我正在学习/会的语言和价格
+C#和.NET ~~(但是非常烂)~~  Python C++
