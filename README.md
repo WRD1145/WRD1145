@@ -12,3 +12,5 @@
 
 ## 我正在学习/会的语言和架构
 C#和.NET ~~(但是非常烂)~~  Python C++ PHP JavaScript CSS HTML
+
+## 我的另一个github账号[@HelloWRD1145](https://github.com/HelloWRD1145)
