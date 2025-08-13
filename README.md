@@ -7,7 +7,7 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WRD1145)
 
 ## 联系方式
-请发送邮件至1640884306@qq.com并注明来意或者加作者QQ 1640884306或者加项目相对应的QQ群。
+请发送邮件至HiWRD1@163.com并注明来意或者加作者QQ 1640884306或者加项目相对应的QQ群。
 
 
 ## 我正在学习/会的语言和架构
