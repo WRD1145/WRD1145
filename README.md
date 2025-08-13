@@ -1,5 +1,5 @@
 # 你好，这里是WRD1145的主页👋
-~~一个新疆废物初中生~~
+~~一个废物😋~~
 
 ## 总览
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WRD1145)
@@ -13,4 +13,6 @@
 ## 我正在学习/会的语言和架构
 C#和.NET ~~(但是非常烂)~~  Python C++ PHP JavaScript CSS HTML
 
-## 我的另一个github账号[@HelloWRD1145](https://github.com/HelloWRD1145)
+## 我的另外Github账号
+[@HelloWRD1145](https://github.com/HelloWRD1145)
+[@WRD1145S](https://github.com/WRD1145S)
