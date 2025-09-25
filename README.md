@@ -10,7 +10,7 @@
 请发送邮件至HiWRD1@163.com并注明来意
 
 ## 我正在学习/会的语言和架构😋
-C#和.NET ~~(但是非常烂)~~  Python C++ PHP JavaScript CSS HTML
+C#~~(但是非常烂)~~  Python C++ PHP JavaScript CSS HTML
 
 ## 我的另外Github账号
 [@HelloWRD1145](https://github.com/HelloWRD1145)
