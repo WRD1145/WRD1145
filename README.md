@@ -7,7 +7,7 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WRD1145)
 ![](./profile-3d-contrib/profile-green-animate.svg)
 ## 联系方式
-请发送邮件至HiWRD1@163.com并注明来意
+请发送邮件至HiWRD1@163.com并注明来意，邮件不经常看，建议加QQ1640884306
 
 ## 我正在学习/会的语言和架构😋
 C#~~(但是非常烂)~~  Python C++ PHP JavaScript CSS HTML
